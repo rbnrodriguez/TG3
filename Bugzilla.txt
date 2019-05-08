@@ -1,0 +1,12 @@
+https://bugs.freedesktop.org/
+
+usuario: rodriguez.ruben.4b@gmil.com
+contraseña: 1234567890
+
+Las incidencias creadas no vas a poder visualizarlas, ya que se envían a este correo: daniel@fooishbar.org
+que es de la organizazión de Bugzilla para que sepan solucionarnos el problema que nos esta ocurriendo, por eso 
+cambiamos a Jira porque la versión online no ofrecía realmente lo que buscamos. 
+
+Las carpetas como prueba de que hemos intentado instalar Bugzilla, debido a su gran tamaño se encuentran 
+en este link:
+https://we.tl/t-8YW2kR7kXJ
